@@ -9,7 +9,8 @@ const app = express();
 mongoose.connect('mongodb://localhost/ninjago');
 mongoose.Promise = global.Promise;
 
-// use body-parser middleware
+app.use(express.static('public'));
+
 app.use(bodyParser.json());
 
 // initialize routes
