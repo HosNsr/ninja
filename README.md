@@ -1,8 +1,8 @@
 # ninja
-Ninja as a simple project and used: 
-##HTML for simple view
-##MongoDB for Database
-##NodeJS for controller
+## Ninja as a simple project and used: 
+- **HTML for simple view**
+- **MongoDB for Database**
+- **NodeJS for controller**
 
 In this project tried to best way to connect front to the backend that of course there are even better ways
 
